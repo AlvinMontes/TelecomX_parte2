@@ -1,4 +1,6 @@
 # TelecomX_parte2
+Challenge Alura Store Latam
+
 Telecom X – Parte 2: Predicción de Cancelación (Churn)
 
 ## 🎯 Misión
