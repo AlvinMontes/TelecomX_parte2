@@ -67,7 +67,7 @@ Luego, abre el archivo TelecomX_parte2.git con Jupyter Notebook, Google Colab o 
 
 ## 📌 Autor
 
-Proyecto realizado por **Javier Cañete** como parte del Challenger Telecom X de Alura One.
+Proyecto realizado por **Javier Cañete** como parte del Challenger Telecom X parte 2 de Alura One.
 Si te gustó este proyecto o tenés sugerencias, ¡no dudes en abrir un issue o contribuir!
 
 ---
