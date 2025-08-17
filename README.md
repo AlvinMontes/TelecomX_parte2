@@ -18,10 +18,10 @@ Nuestro reto es explorar y analizar los datos, identificar patrones del **Abando
 
 ## 🧰 Lo que vas a realizar
 
-✅ Preprocesamiento de datos para Machine Learning.<br>
-✅ Construcción y evaluación de modelos predictivos.<br>
-✅ Interpretación de resultados y entrega de insights.<br>
-✅ Comunicación técnica con enfoque estratégico.<br>
+✅ Preprocesamiento de datos para Machine Learning.
+✅ Construcción y evaluación de modelos predictivos.
+✅ Interpretación de resultados y entrega de insights.
+✅ Comunicación técnica con enfoque estratégico.
 
 ## 🗂️ Estructura del Proyecto
 ```plaintext
