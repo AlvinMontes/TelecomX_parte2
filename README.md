@@ -10,18 +10,26 @@ La empresa quiere anticiparse al problema de la cancelación, y te corresponde a
 Nuestro reto es explorar y analizar los datos, identificar patrones del **Abandono** y generar recomendaciones estratégicas basadas en análisis descriptivo y visualizaciones. El análisis servirá como base para modelos predictivos futuros.
 
 ✅ Preparar los datos para el modelado (tratamiento, codificación, normalización).
+
 ✅ Realizar análisis de correlación y selección de variables.
+
 ✅ Entrenar dos o más modelos de clasificación.
+
 ✅ Evaluar el rendimiento de los modelos con métricas.
+
 ✅ Interpretar los resultados, incluyendo la importancia de las variables.
+
 ✅ Crear una conclusión estratégica señalando los principales factores que influyen en la cancelación.
 
 ## 🧰 Lo que vas a realizar
 
-✅ Preprocesamiento de datos para Machine Learning
-✅ Construcción y evaluación de modelos predictivos
-✅ Interpretación de resultados y entrega de insights
-✅ Comunicación técnica con enfoque estratégico
+✅ Preprocesamiento de datos para Machine Learning.
+
+✅ Construcción y evaluación de modelos predictivos.
+
+✅ Interpretación de resultados y entrega de insights.
+
+✅ Comunicación técnica con enfoque estratégico.
 
 
 ## 🗂️ Estructura del Proyecto
