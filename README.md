@@ -1,5 +1,6 @@
 # TelecomX_parte2
 Telecom X – Parte 2: Predicción de Cancelación (Churn)
+
 🎯 Misión
 
 La nueva misión es desarrollar modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios.
