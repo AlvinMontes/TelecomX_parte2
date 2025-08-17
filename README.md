@@ -1,12 +1,12 @@
 # TelecomX_parte2
 Telecom X – Parte 2: Predicción de Cancelación (Churn)
 
-##🎯 Misión
+## 🎯 Misión
 
 La nueva misión es desarrollar modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios.
 La empresa quiere anticiparse al problema de la cancelación, y te corresponde a ti construir un pipeline robusto para esta etapa inicial de modelado.
 
-##🧠 Objetivos del Desafío
+## 🧠 Objetivos del Desafío
 Nuestro reto es explorar y analizar los datos, identificar patrones del **Abandono** y generar recomendaciones estratégicas basadas en análisis descriptivo y visualizaciones. El análisis servirá como base para modelos predictivos futuros.
 
 ✅ Preparar los datos para el modelado (tratamiento, codificación, normalización).
@@ -16,7 +16,7 @@ Nuestro reto es explorar y analizar los datos, identificar patrones del **Abando
 ✅ Interpretar los resultados, incluyendo la importancia de las variables.
 ✅ Crear una conclusión estratégica señalando los principales factores que influyen en la cancelación.
 
-##🧰 Lo que vas a realizar
+## 🧰 Lo que vas a realizar
 
 ✅ Preprocesamiento de datos para Machine Learning
 ✅ Construcción y evaluación de modelos predictivos
