@@ -54,22 +54,18 @@ Nuestro reto es explorar y analizar los datos, identificar patrones del **Abando
 ## 🚀 Requisitos para ejecutar el proyecto
 
 Asegúrate de tener instaladas las siguientes bibliotecas:
-1. Clona este repositorio:
 
-`git clone https://github.com/JotaDC/TelecomX_parte2.git
-cd proyecto-telecomx2`
-
-2. Instala las dependencias:
+1. Instala las dependencias:
 
 `pip install pandas matplotlib seaborn ploply sklearn pickle<br>
 
-3. Abre el notebook:
+2. Abre el notebook:
 
 Luego, abre el archivo TelecomX_parte2.git con Jupyter Notebook, Google Colab o cualquier entorno compatible para ejecutar y explorar el análisis.
 
 ## 📌 Autor
 
-Proyecto realizado por **Javier Cañete** como parte del Challenger Telecom X parte 2 de Alura One.
+Proyecto realizado por **Alvin montes** como parte del Challenger Telecom X parte 2 de Alura One.
 Si te gustó este proyecto o tenés sugerencias, ¡no dudes en abrir un issue o contribuir!
 
 ---
